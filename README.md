@@ -1,3 +1,5 @@
+Made with ChatGPT while messing around with Cachyos 
+
 CachyOS Samba Manager 🐧
 
 A simple Bash-based Samba management utility for CachyOS Linux.
