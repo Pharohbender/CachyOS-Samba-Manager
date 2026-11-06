@@ -76,7 +76,7 @@ nftables (optional)
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/CachyOS-Samba-Manager.git
+git clone https://github.com/Pharohbender/CachyOS-Samba-Manager.git
 
 
 Enter the directory:
